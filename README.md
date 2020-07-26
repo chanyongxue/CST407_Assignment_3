@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Anime App Components
 
-This project is a starting point for a Flutter application.
+List of popular anime, top movies, upcoming series, and detail screens for all.
 
 ## Preview
 
-![Distance from Origin Demo](animeappdemo.gif)
+![Anime App Demo](animeappdemo.gif)
