@@ -8,4 +8,4 @@ List of popular anime, top movies, upcoming series, and detail screens for all.
 
 ## Preview
 
-![Anime App Demo](animeappdemo.gif)
+![Anime App Demo](animeappdemo.gif.gif)
