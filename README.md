@@ -1,6 +1,6 @@
 # cst407_assignment_3
 
-A new Flutter project.
+Anime App by Courtney Chan
 
 ## Anime App Components
 
