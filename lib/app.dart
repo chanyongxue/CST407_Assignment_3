@@ -1,5 +1,9 @@
+import 'package:cst407_assignment_3/screens/signin.dart';
 import 'package:flutter/material.dart';
-import 'home.dart';
+import 'screens/home.dart';
+import 'auth/auth_methods.dart';
+import 'screens/detailscreen.dart';
+import 'screens/favoriteanime.dart';
 
 class App extends StatelessWidget {
   const App({Key key}) : super(key: key);
@@ -7,7 +11,12 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Home(),
+      home: Home(),     
+       routes: {
+        '/home': (context) => Home(),
+        '/detail': (context) => AnimeDetails(),
+        '/favorites': (context) => FavoriteAnime(),
+      },
     );
   }
 }
